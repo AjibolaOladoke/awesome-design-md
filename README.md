@@ -6,7 +6,7 @@ A practical reference entry for product and engineering: the awesome-design-md n
 
 ## Images
 
-[![awesome-design-md](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![awesome-design-md](images/preview.png)](https://github.com/Swift-Tech-Co/awesome-design-md)
 
 ## What is DESIGN.md?
 
@@ -27,26 +27,23 @@ You can request a DESIGN.md for specific website, including private requests del
 
 ## AI Design + Build Ecosystem Tools
 
-
 <br/>
 
 You ship products with AI, but every launch still dies quietly because nobody posts about it. EveryFeed plugs your AI assistant into a social workspace that drafts, schedules, and publishes across 35+ channels  no agency, no marketing hire.
 
-<a href="https://www.swifttechco.com">
+<a href="https://github.com/Swift-Tech-Co/awesome-design-md">
 <br/>
 </a>
 
 <br/>
 
-
-<a href="https://www.swifttechco.com">
+<a href="https://github.com/Swift-Tech-Co/awesome-design-md">
 <br/>
 </a>
 
 <br/>
 
-
-<a href="https://www.swifttechco.com">
+<a href="https://github.com/Swift-Tech-Co/awesome-design-md">
 <br/>
 </a>
 
@@ -62,13 +59,11 @@ You ship products with AI, but every launch still dies quietly because nobody po
 
 <sub>Ranked #150 globally on GitHub. A community resource used by developers, designers, and vibecoders.</sub>
 
-
 </td>
 </tr>
 </table>
 
 </div>
-
 
 ## Collection
 
@@ -177,7 +172,6 @@ A Saturday series  DESIGN.md files extracted from the web of the 1990s. Drop one
 - **Dell (1996)** - Catalog-era enterprise web. Literal black page frame, flat color-block "ribbon cards", chunky Helvetica-Black titles over Times Roman body, and hand-cut GIF stickers (NEW! bursts, award seals, beveled product photos).
 - **Nintendo.com (2001)** - Y2K "console chrome" web. Brushed-periwinkle beveled metal panels, a halftone-dotted carbon nav glowing amber, outlined Arial-Black box-art wordmarks over circuit-board hero fields, and a pixel Mario welcome bubble.
 
-
 ## What's Inside Each DESIGN.md
 
 Every file follows the Stitch DESIGN.md format with extended sections:
@@ -204,10 +198,8 @@ Each site includes:
 
 ### How to Use
 
-
 1. Copy a site's `DESIGN.md` into your project root
 2. Tell your AI agent to use it.
-
 
 ## Contributing
 
@@ -217,7 +209,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 - **Report issues**: Let us know if something looks off
 
 Before opening a PR, please open an issue first to discuss your idea and get feedback from maintainers.
-
 
 ## License
 
@@ -239,13 +230,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/awesome-design-md
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
